@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "U+4E00",
+    "character": "一",
+    "grade": 1,
+    "strokeCount": 1,
+    "readings": {
+      "on": [
+        "イチ"
+      ],
+      "kun": [
+        "ひと",
+        "ひとつ"
+      ]
+    },
+    "meanings": [
+      "one"
+    ]
+  },
+  {
+    "id": "U+53F3",
+    "character": "右",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "ウ"
+      ],
+      "kun": [
+        "みぎ"
+      ]
+    },
+    "meanings": [
+      "right"
+    ]
+  },
+  {
+    "id": "U+96E8",
+    "character": "雨",
+    "grade": 1,
+    "strokeCount": 8,
+    "readings": {
+      "on": [
+        "ウ"
+      ],
+      "kun": [
+        "あめ",
+        "あま"
+      ]
+    },
+    "meanings": [
+      "rain"
+    ]
+  },
+  {
+    "id": "U+5186",
+    "character": "円",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "まる.い"
+      ]
+    },
+    "meanings": [
+      "circle",
+      "yen"
+    ]
+  },
+  {
+    "id": "U+738B",
+    "character": "王",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "オウ"
+      ],
+      "kun": []
+    },
+    "meanings": [
+      "king"
+    ]
+  },
+  {
+    "id": "U+97F3",
+    "character": "音",
+    "grade": 1,
+    "strokeCount": 9,
+    "readings": {
+      "on": [
+        "オン"
+      ],
+      "kun": [
+        "おと",
+        "ね"
+      ]
+    },
+    "meanings": [
+      "sound"
+    ]
+  },
+  {
+    "id": "U+4E0B",
+    "character": "下",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "カ",
+        "ゲ"
+      ],
+      "kun": [
+        "した",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "お.りる"
+      ]
+    },
+    "meanings": [
+      "below",
+      "down"
+    ]
+  },
+  {
+    "id": "U+706B",
+    "character": "火",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "ひ"
+      ]
+    },
+    "meanings": [
+      "fire"
+    ]
+  },
+  {
+    "id": "U+82B1",
+    "character": "花",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "はな"
+      ]
+    },
+    "meanings": [
+      "flower"
+    ]
+  },
+  {
+    "id": "U+8C9D",
+    "character": "貝",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "かい"
+      ]
+    },
+    "meanings": [
+      "shellfish"
+    ]
+  },
+  {
+    "id": "U+5B66",
+    "character": "学",
+    "grade": 1,
+    "strokeCount": 8,
+    "readings": {
+      "on": [
+        "ガク"
+      ],
+      "kun": [
+        "まな.ぶ"
+      ]
+    },
+    "meanings": [
+      "study",
+      "learning"
+    ]
+  },
+  {
+    "id": "U+6C17",
+    "character": "気",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "キ",
+        "ケ"
+      ],
+      "kun": []
+    },
+    "meanings": [
+      "spirit",
+      "mind",
+      "air"
+    ]
+  },
+  {
+    "id": "U+4F11",
+    "character": "休",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "やす.む"
+      ]
+    },
+    "meanings": [
+      "rest"
+    ]
+  },
+  {
+    "id": "U+7389",
+    "character": "玉",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "ギョク"
+      ],
+      "kun": [
+        "たま"
+      ]
+    },
+    "meanings": [
+      "jewel",
+      "ball"
+    ]
+  },
+  {
+    "id": "U+91D1",
+    "character": "金",
+    "grade": 1,
+    "strokeCount": 8,
+    "readings": {
+      "on": [
+        "キン",
+        "コン"
+      ],
+      "kun": [
+        "かね",
+        "かな"
+      ]
+    },
+    "meanings": [
+      "gold",
+      "money"
+    ]
+  },
+  {
+    "id": "U+4E5D",
+    "character": "九",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "キュウ",
+        "ク"
+      ],
+      "kun": [
+        "ここの",
+        "ここのつ"
+      ]
+    },
+    "meanings": [
+      "nine"
+    ]
+  },
+  {
+    "id": "U+7A7A",
+    "character": "空",
+    "grade": 1,
+    "strokeCount": 8,
+    "readings": {
+      "on": [
+        "クウ"
+      ],
+      "kun": [
+        "そら",
+        "あ.く",
+        "から"
+      ]
+    },
+    "meanings": [
+      "sky",
+      "empty"
+    ]
+  },
+  {
+    "id": "U+6708",
+    "character": "月",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kun": [
+        "つき"
+      ]
+    },
+    "meanings": [
+      "month",
+      "moon"
+    ]
+  },
+  {
+    "id": "U+72AC",
+    "character": "犬",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "いぬ"
+      ]
+    },
+    "meanings": [
+      "dog"
+    ]
+  },
+  {
+    "id": "U+898B",
+    "character": "見",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "み.る",
+        "み.える",
+        "み.せる"
+      ]
+    },
+    "meanings": [
+      "see",
+      "look"
+    ]
+  },
+  {
+    "id": "U+4E94",
+    "character": "五",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ゴ"
+      ],
+      "kun": [
+        "いつ",
+        "いつつ"
+      ]
+    },
+    "meanings": [
+      "five"
+    ]
+  },
+  {
+    "id": "U+53E3",
+    "character": "口",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "コウ",
+        "ク"
+      ],
+      "kun": [
+        "くち"
+      ]
+    },
+    "meanings": [
+      "mouth"
+    ]
+  },
+  {
+    "id": "U+6821",
+    "character": "校",
+    "grade": 1,
+    "strokeCount": 10,
+    "readings": {
+      "on": [
+        "コウ"
+      ],
+      "kun": []
+    },
+    "meanings": [
+      "school"
+    ]
+  },
+  {
+    "id": "U+5DE6",
+    "character": "左",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "サ"
+      ],
+      "kun": [
+        "ひだり"
+      ]
+    },
+    "meanings": [
+      "left"
+    ]
+  },
+  {
+    "id": "U+4E09",
+    "character": "三",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "サン"
+      ],
+      "kun": [
+        "み",
+        "みつ",
+        "みっつ"
+      ]
+    },
+    "meanings": [
+      "three"
+    ]
+  },
+  {
+    "id": "U+5C71",
+    "character": "山",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "サン"
+      ],
+      "kun": [
+        "やま"
+      ]
+    },
+    "meanings": [
+      "mountain"
+    ]
+  },
+  {
+    "id": "U+56DB",
+    "character": "四",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "よ",
+        "よつ",
+        "よっつ",
+        "よん"
+      ]
+    },
+    "meanings": [
+      "four"
+    ]
+  },
+  {
+    "id": "U+5B50",
+    "character": "子",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "シ",
+        "ス"
+      ],
+      "kun": [
+        "こ"
+      ]
+    },
+    "meanings": [
+      "child"
+    ]
+  },
+  {
+    "id": "U+7CF8",
+    "character": "糸",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "いと"
+      ]
+    },
+    "meanings": [
+      "thread"
+    ]
+  },
+  {
+    "id": "U+5B57",
+    "character": "字",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "あざ"
+      ]
+    },
+    "meanings": [
+      "character",
+      "letter"
+    ]
+  },
+  {
+    "id": "U+8033",
+    "character": "耳",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "みみ"
+      ]
+    },
+    "meanings": [
+      "ear"
+    ]
+  },
+  {
+    "id": "U+4E03",
+    "character": "七",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "シチ"
+      ],
+      "kun": [
+        "なな",
+        "ななつ",
+        "なの"
+      ]
+    },
+    "meanings": [
+      "seven"
+    ]
+  },
+  {
+    "id": "U+8ECA",
+    "character": "車",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "くるま"
+      ]
+    },
+    "meanings": [
+      "car",
+      "vehicle"
+    ]
+  },
+  {
+    "id": "U+624B",
+    "character": "手",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "シュ"
+      ],
+      "kun": [
+        "て"
+      ]
+    },
+    "meanings": [
+      "hand"
+    ]
+  },
+  {
+    "id": "U+5341",
+    "character": "十",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "ジュウ",
+        "ジッ"
+      ],
+      "kun": [
+        "とお",
+        "と"
+      ]
+    },
+    "meanings": [
+      "ten"
+    ]
+  },
+  {
+    "id": "U+51FA",
+    "character": "出",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "シュツ"
+      ],
+      "kun": [
+        "で.る",
+        "だ.す"
+      ]
+    },
+    "meanings": [
+      "exit",
+      "go out"
+    ]
+  },
+  {
+    "id": "U+5973",
+    "character": "女",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "ジョ",
+        "ニョ"
+      ],
+      "kun": [
+        "おんな",
+        "め"
+      ]
+    },
+    "meanings": [
+      "woman",
+      "female"
+    ]
+  },
+  {
+    "id": "U+5C0F",
+    "character": "小",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "ちい.さい",
+        "こ",
+        "お"
+      ]
+    },
+    "meanings": [
+      "small",
+      "little"
+    ]
+  },
+  {
+    "id": "U+4E0A",
+    "character": "上",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "うえ",
+        "あ.げる",
+        "あ.がる",
+        "のぼ.る"
+      ]
+    },
+    "meanings": [
+      "above",
+      "up"
+    ]
+  },
+  {
+    "id": "U+68EE",
+    "character": "森",
+    "grade": 1,
+    "strokeCount": 12,
+    "readings": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "もり"
+      ]
+    },
+    "meanings": [
+      "forest"
+    ]
+  },
+  {
+    "id": "U+4EBA",
+    "character": "人",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "ジン",
+        "ニン"
+      ],
+      "kun": [
+        "ひと"
+      ]
+    },
+    "meanings": [
+      "person"
+    ]
+  },
+  {
+    "id": "U+6C34",
+    "character": "水",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "みず"
+      ]
+    },
+    "meanings": [
+      "water"
+    ]
+  },
+  {
+    "id": "U+6B63",
+    "character": "正",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "ただ.しい",
+        "まさ"
+      ]
+    },
+    "meanings": [
+      "correct",
+      "right"
+    ]
+  },
+  {
+    "id": "U+751F",
+    "character": "生",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun": [
+        "い.きる",
+        "う.まれる",
+        "は.える",
+        "なま"
+      ]
+    },
+    "meanings": [
+      "life",
+      "birth",
+      "raw"
+    ]
+  },
+  {
+    "id": "U+9752",
+    "character": "青",
+    "grade": 1,
+    "strokeCount": 8,
+    "readings": {
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "あお",
+        "あお.い"
+      ]
+    },
+    "meanings": [
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "id": "U+77F3",
+    "character": "石",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "kun": [
+        "いし"
+      ]
+    },
+    "meanings": [
+      "stone"
+    ]
+  },
+  {
+    "id": "U+8D64",
+    "character": "赤",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "あか",
+        "あか.い"
+      ]
+    },
+    "meanings": [
+      "red"
+    ]
+  },
+  {
+    "id": "U+5148",
+    "character": "先",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "さき"
+      ]
+    },
+    "meanings": [
+      "before",
+      "ahead"
+    ]
+  },
+  {
+    "id": "U+5343",
+    "character": "千",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "ち"
+      ]
+    },
+    "meanings": [
+      "thousand"
+    ]
+  },
+  {
+    "id": "U+5DDD",
+    "character": "川",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "かわ"
+      ]
+    },
+    "meanings": [
+      "river"
+    ]
+  },
+  {
+    "id": "U+65E9",
+    "character": "早",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "ソウ",
+        "サッ"
+      ],
+      "kun": [
+        "はや.い",
+        "はや.まる"
+      ]
+    },
+    "meanings": [
+      "early",
+      "fast"
+    ]
+  },
+  {
+    "id": "U+8349",
+    "character": "草",
+    "grade": 1,
+    "strokeCount": 9,
+    "readings": {
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "くさ"
+      ]
+    },
+    "meanings": [
+      "grass"
+    ]
+  },
+  {
+    "id": "U+8DB3",
+    "character": "足",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "ソク"
+      ],
+      "kun": [
+        "あし",
+        "た.りる",
+        "た.る"
+      ]
+    },
+    "meanings": [
+      "leg",
+      "foot",
+      "enough"
+    ]
+  },
+  {
+    "id": "U+6751",
+    "character": "村",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "ソン"
+      ],
+      "kun": [
+        "むら"
+      ]
+    },
+    "meanings": [
+      "village"
+    ]
+  },
+  {
+    "id": "U+5927",
+    "character": "大",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "ダイ",
+        "タイ"
+      ],
+      "kun": [
+        "おお.きい",
+        "おお.いに"
+      ]
+    },
+    "meanings": [
+      "big",
+      "large"
+    ]
+  },
+  {
+    "id": "U+7537",
+    "character": "男",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "ダン",
+        "ナン"
+      ],
+      "kun": [
+        "おとこ"
+      ]
+    },
+    "meanings": [
+      "man",
+      "male"
+    ]
+  },
+  {
+    "id": "U+7AF9",
+    "character": "竹",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "チク"
+      ],
+      "kun": [
+        "たけ"
+      ]
+    },
+    "meanings": [
+      "bamboo"
+    ]
+  },
+  {
+    "id": "U+4E2D",
+    "character": "中",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "なか"
+      ]
+    },
+    "meanings": [
+      "middle",
+      "inside"
+    ]
+  },
+  {
+    "id": "U+866B",
+    "character": "虫",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "むし"
+      ]
+    },
+    "meanings": [
+      "insect",
+      "bug"
+    ]
+  },
+  {
+    "id": "U+753A",
+    "character": "町",
+    "grade": 1,
+    "strokeCount": 7,
+    "readings": {
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "まち"
+      ]
+    },
+    "meanings": [
+      "town"
+    ]
+  },
+  {
+    "id": "U+5929",
+    "character": "天",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "あめ",
+        "あま"
+      ]
+    },
+    "meanings": [
+      "heaven",
+      "sky"
+    ]
+  },
+  {
+    "id": "U+7530",
+    "character": "田",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "デン"
+      ],
+      "kun": [
+        "た"
+      ]
+    },
+    "meanings": [
+      "rice field"
+    ]
+  },
+  {
+    "id": "U+571F",
+    "character": "土",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "ド",
+        "ト"
+      ],
+      "kun": [
+        "つち"
+      ]
+    },
+    "meanings": [
+      "earth",
+      "soil"
+    ]
+  },
+  {
+    "id": "U+4E8C",
+    "character": "二",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "ニ"
+      ],
+      "kun": [
+        "ふた",
+        "ふたつ"
+      ]
+    },
+    "meanings": [
+      "two"
+    ]
+  },
+  {
+    "id": "U+65E5",
+    "character": "日",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kun": [
+        "ひ",
+        "か"
+      ]
+    },
+    "meanings": [
+      "day",
+      "sun"
+    ]
+  },
+  {
+    "id": "U+5165",
+    "character": "入",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "ニュウ"
+      ],
+      "kun": [
+        "い.る",
+        "い.れる",
+        "はい.る"
+      ]
+    },
+    "meanings": [
+      "enter"
+    ]
+  },
+  {
+    "id": "U+5E74",
+    "character": "年",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "ネン"
+      ],
+      "kun": [
+        "とし"
+      ]
+    },
+    "meanings": [
+      "year"
+    ]
+  },
+  {
+    "id": "U+767D",
+    "character": "白",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "ハク"
+      ],
+      "kun": [
+        "しろ",
+        "しろ.い"
+      ]
+    },
+    "meanings": [
+      "white"
+    ]
+  },
+  {
+    "id": "U+516B",
+    "character": "八",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "ハチ"
+      ],
+      "kun": [
+        "や",
+        "やつ",
+        "やっつ",
+        "よう"
+      ]
+    },
+    "meanings": [
+      "eight"
+    ]
+  },
+  {
+    "id": "U+767E",
+    "character": "百",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "ヒャク"
+      ],
+      "kun": []
+    },
+    "meanings": [
+      "hundred"
+    ]
+  },
+  {
+    "id": "U+6587",
+    "character": "文",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ブン",
+        "モン"
+      ],
+      "kun": [
+        "ふみ"
+      ]
+    },
+    "meanings": [
+      "sentence",
+      "writing"
+    ]
+  },
+  {
+    "id": "U+672C",
+    "character": "本",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "ホン"
+      ],
+      "kun": [
+        "もと"
+      ]
+    },
+    "meanings": [
+      "book",
+      "origin"
+    ]
+  },
+  {
+    "id": "U+540D",
+    "character": "名",
+    "grade": 1,
+    "strokeCount": 6,
+    "readings": {
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kun": [
+        "な"
+      ]
+    },
+    "meanings": [
+      "name"
+    ]
+  },
+  {
+    "id": "U+6728",
+    "character": "木",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ボク",
+        "モク"
+      ],
+      "kun": [
+        "き",
+        "こ"
+      ]
+    },
+    "meanings": [
+      "tree",
+      "wood"
+    ]
+  },
+  {
+    "id": "U+76EE",
+    "character": "目",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "モク",
+        "ボク"
+      ],
+      "kun": [
+        "め"
+      ]
+    },
+    "meanings": [
+      "eye"
+    ]
+  },
+  {
+    "id": "U+5915",
+    "character": "夕",
+    "grade": 1,
+    "strokeCount": 3,
+    "readings": {
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "ゆう"
+      ]
+    },
+    "meanings": [
+      "evening"
+    ]
+  },
+  {
+    "id": "U+7ACB",
+    "character": "立",
+    "grade": 1,
+    "strokeCount": 5,
+    "readings": {
+      "on": [
+        "リツ"
+      ],
+      "kun": [
+        "た.つ",
+        "た.てる"
+      ]
+    },
+    "meanings": [
+      "stand"
+    ]
+  },
+  {
+    "id": "U+529B",
+    "character": "力",
+    "grade": 1,
+    "strokeCount": 2,
+    "readings": {
+      "on": [
+        "リョク",
+        "リキ"
+      ],
+      "kun": [
+        "ちから"
+      ]
+    },
+    "meanings": [
+      "power",
+      "strength"
+    ]
+  },
+  {
+    "id": "U+6797",
+    "character": "林",
+    "grade": 1,
+    "strokeCount": 8,
+    "readings": {
+      "on": [
+        "リン"
+      ],
+      "kun": [
+        "はやし"
+      ]
+    },
+    "meanings": [
+      "grove",
+      "forest"
+    ]
+  },
+  {
+    "id": "U+516D",
+    "character": "六",
+    "grade": 1,
+    "strokeCount": 4,
+    "readings": {
+      "on": [
+        "ロク"
+      ],
+      "kun": [
+        "む",
+        "むつ",
+        "むっつ",
+        "むい"
+      ]
+    },
+    "meanings": [
+      "six"
+    ]
+  }
+]
