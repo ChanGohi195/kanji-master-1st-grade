@@ -21,6 +21,3 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-# Build artifacts
-/kanji-master-1st-grade.zip

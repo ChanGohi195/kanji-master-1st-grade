@@ -82,17 +82,12 @@
 			</a>
 		</section>
 
-		<!-- 設定・ダウンロード -->
-		<section class="flex justify-center gap-4">
+		<!-- 設定 -->
+		<section class="text-center">
 			<a href="/settings"
 				class="inline-flex items-center gap-2 rounded-full bg-gray-100 px-6 py-3 text-xl text-gray-600
 					   hover:bg-gray-200 transition-colors">
 				⚙️ {UI.settings}
-			</a>
-			<a href="/download"
-				class="inline-flex items-center gap-2 rounded-full bg-gray-100 px-6 py-3 text-xl text-gray-600
-					   hover:bg-gray-200 transition-colors">
-				📦 ダウンロード
 			</a>
 		</section>
 	</main>
