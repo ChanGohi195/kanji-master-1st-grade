@@ -14,7 +14,7 @@
 
 	// KanjiWriter動的インポート
 	let KanjiWriterComponent: any = $state(null);
-	let writerRef: any = $state(null);
+	let writerRef: any = null;
 	let isPracticing = $state(false);
 	let isAnimating = $state(false);
 
@@ -60,6 +60,7 @@
 
 	// 練習モード開始
 	function handleStartPractice() {
+		console.log("[Page] handleStartPractice, writerRef:", writerRef);
 		if (!writerRef) return;
 		isPracticing = true;
 		writerRef.startQuiz();

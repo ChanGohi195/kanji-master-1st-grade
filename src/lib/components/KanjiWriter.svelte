@@ -27,9 +27,15 @@
 	let container: HTMLDivElement;
 	let writer: HanziWriter | null = null;
 	let quizActive = $state(false);
+	let mounted = false;
+	let currentCharacter = '';
 
 	onMount(() => {
-		createWriter();
+		console.log('[KanjiWriter] onMount, character:', character);
+		mounted = true;
+		if (container && character) {
+			createWriter();
+		}
 	});
 
 	onDestroy(() => {
@@ -39,13 +45,14 @@
 	});
 
 	function createWriter() {
+		console.log('[KanjiWriter] createWriter, mounted:', mounted);
+		if (!mounted || !container || !character) return;
+
 		if (writer) {
 			writer.cancelQuiz();
 		}
 
-		if (container) {
-			container.innerHTML = '';
-		}
+		container.innerHTML = '';
 
 		writer = HanziWriter.create(container, character, {
 			width: size,
@@ -61,14 +68,18 @@
 			drawingWidth: 8,
 			showHintAfterMisses: 2,
 			highlightOnComplete: true,
-			charDataLoader: (char: string) => {
-				return HanziWriter.loadCharacterData(char);
+			charDataLoader: async (char: string) => {
+				const encoded = encodeURIComponent(char); const url = 'https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0/' + encoded + '.json'; console.log('[KanjiWriter] Fetching:', url);
+				const res = await fetch(url); return res.json();
 			}
 		});
+		console.log('[KanjiWriter] writer created:', !!writer);
 	}
 
 	$effect(() => {
-		if (container && character) {
+		if (character === currentCharacter) return;
+		currentCharacter = character;
+		if (mounted && container && character) {
 			createWriter();
 			quizActive = false;
 		}
@@ -79,6 +90,7 @@
 	}
 
 	export function animateCharacter() {
+		console.log('[KanjiWriter] animateCharacter');
 		return new Promise<void>((resolve) => {
 			writer?.animateCharacter({
 				onComplete: () => resolve()
@@ -87,15 +99,23 @@
 	}
 
 	export function startQuiz() {
+		console.log('[KanjiWriter] startQuiz, writer:', !!writer);
+		if (!writer) {
+			console.error('[KanjiWriter] writer is null!');
+			return;
+		}
 		quizActive = true;
-		writer?.quiz({
+		writer.quiz({
 			onCorrectStroke: (data) => {
+				console.log('[KanjiWriter] correct stroke');
 				onCorrectStroke(data);
 			},
 			onMistake: (data) => {
+				console.log('[KanjiWriter] mistake');
 				onMistake(data);
 			},
 			onComplete: (data) => {
+				console.log('[KanjiWriter] complete');
 				quizActive = false;
 				onComplete();
 			}
