@@ -4,7 +4,7 @@
 	import { page } from '$app/stores';
 	import { UI } from '$lib/data/ui-text';
 	import { recordStudy, recordBunshoStudy, getProgress } from '$lib/db';
-	import { playCorrectSound, playCloseSound } from '$lib/services/sound';
+	import { playCorrectSound, playCloseSound, playIncorrectSound } from '$lib/services/sound';
 	import VerticalSentence from '$lib/components/VerticalSentence.svelte';
 	import SpeakButton from '$lib/components/SpeakButton.svelte';
 	import WritingCanvas from '$lib/components/WritingCanvas.svelte';
@@ -163,6 +163,7 @@
 	function startWritingQuiz() {
 		mistakeCount = 0;
 		hintUsed = false;
+		helpLevel = 0;
 		setTimeout(() => writerRef?.startQuiz(), 100);
 	}
 
@@ -177,6 +178,8 @@
 			setTimeout(() => writerRef?.startQuiz(), 150);
 			return;
 		}
+		// Original logic below
+		if (!currentExample) return;
 		showResult = true;
 		isCorrect = mistakeCount <= 2;
 
@@ -288,7 +291,7 @@
 				setTimeout(handleNext, 700);
 			}
 		} else {
-			playCloseSound();
+			playIncorrectSound();
 		}
 	}
 
@@ -297,7 +300,6 @@
 	}
 
 function handleDifficult() { if (helpLevel === 0) { helpLevel = 1; hintUsed = true; showAnswer = false; setTimeout(() => writerRef?.startQuiz(), 150); } else { handleSkip(); } }
-
 	function handleNext() {
 		currentIndex = (currentIndex + 1) % questionList.length;
 		loadQuestion();
